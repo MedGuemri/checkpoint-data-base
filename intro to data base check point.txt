@@ -1,0 +1,63 @@
+Slide 1: Introduction
+
+Title: Comparing MongoDB and SQL
+
+Welcome to our presentation on comparing MongoDB and SQL databases.
+In this presentation, we'll explore the key features, functionalities, and differences between these two database types.
+Slide 2: MongoDB Overview
+
+Title: MongoDB
+
+Functionality:
+
+MongoDB is a NoSQL database system.
+It's document-oriented, which means it stores data in flexible, JSON-like BSON (Binary JSON) documents.
+Designed for scalability, enabling distribution of data across multiple servers.
+MongoDB is schema-less, allowing for dynamic and evolving data structures.
+It's particularly well-suited for managing semi-structured and unstructured data.
+Slide 3: SQL Database Overview
+
+Title: SQL Databases
+
+Functionality:
+
+SQL databases are relational database systems.
+Data is stored in structured tables with predefined schemas, consisting of rows and columns.
+ACID (Atomicity, Consistency, Isolation, Durability) transactions ensure data integrity and consistency.
+Utilizes Structured Query Language (SQL) for data manipulation and retrieval.
+Ideal for managing structured data with clear relationships and constraints.
+Slide 4: Comparing MongoDB and SQL
+
+Title: Comparison
+
+Scalability:
+
+MongoDB: Horizontally scalable; can handle large datasets and high traffic by distributing data across multiple servers.
+SQL: Vertically scalable; involves adding more resources to a single server, suitable for moderate workloads.
+Flexibility:
+
+MongoDB: Schema-less architecture accommodates changing data structures without strict schema requirements.
+SQL: Requires predefined schemas, which can be limiting when dealing with evolving data models.
+Slide 5: Comparing MongoDB and SQL (contd.)
+
+Title: Comparison (contd.)
+
+Data Model:
+
+MongoDB: Document-oriented data model, well-suited for storing semi-structured and unstructured data.
+SQL: Table-based data model, optimized for structured data with well-defined relationships.
+Query Language:
+
+MongoDB: Queries are expressed using a JSON-like syntax, providing flexibility in querying documents.
+SQL: Uses Structured Query Language (SQL) for querying relational databases using standardized syntax.
+Use Cases:
+
+MongoDB: Effective for applications such as content management systems, real-time analytics, IoT data storage.
+SQL: Well-suited for scenarios like financial systems, e-commerce platforms, and traditional business applications.
+Slide 6: Conclusion
+
+Title: Conclusion
+
+In conclusion, MongoDB and SQL databases offer distinct features and functionalities.
+The choice between them depends on your project's requirements and data characteristics.
+Understanding the strengths and limitations of each database type is crucial for making an informed decision.
